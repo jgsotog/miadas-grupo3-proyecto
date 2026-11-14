@@ -1,0 +1,8 @@
+# Dependencias del proyecto - Grupo 3 (MIADAS)
+pandas>=2.2.0
+numpy>=2.0.0
+matplotlib>=3.9.0
+seaborn>=0.13.0
+pyreadstat>=1.2.0
+openpyxl>=3.1.0
+ipykernel>=6.29.0

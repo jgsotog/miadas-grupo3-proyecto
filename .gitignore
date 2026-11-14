@@ -1,0 +1,36 @@
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+ENV/
+.env/
+env.bak/
+venv.bak/
+
+# Archivos de base de datos y microdatos (SPSS y CSV)
+*.sav
+*.csv
+
+# Archivos compilados y caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook y checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Carpetas y configuraciones de IDEs
+.vscode/*
+!.vscode/settings.json
+.idea/
+
+# Archivos del sistema operativo
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# Diccionario de datos
+Diccionario_datos.pdf
+Diccionario_datos.xml
